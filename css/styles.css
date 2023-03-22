@@ -8,13 +8,13 @@
 /* Globales */
 html {
   font-size: 66.5%;
-  box-sizing: border-box; /* Hack para Box Model **
+  box-sizing: border-box; /* Hack para Box Model **/
 }
 *,
 *:before,
 *:after {
   box-sizing: inherit;
-} /*"El símbolo "*" es un selector universal que se aplicara a todo el HTML"*/
+} /*"El símbolo "*" es un selector universal que se aplicara a todo el HTML"**/
 body {
   font-size: 16px; /* 1 rem = 10px*/
   font-family: "Krub", sans-serif;
